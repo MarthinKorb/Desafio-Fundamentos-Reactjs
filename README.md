@@ -49,8 +49,6 @@ Já podemos startar nosso front-end:
 
 **Pronto, aplicação já rodando!**
 
-Pode ser importado um arquivo csv no seguinte formato ![lancamentos.csv]()
-
 ----------------------------------------------------
 
 #

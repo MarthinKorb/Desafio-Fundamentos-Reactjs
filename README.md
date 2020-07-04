@@ -1,9 +1,8 @@
-# GoFinances
-Aplicação para controle de financas - (Front-end: ReactJS, Typescript) (Backend: NodeJS, TypeORM, PostgresSQL)
+# GoFinances 💰
+Aplicação para controle de financas desenvolvida durante o bootcamp GoStack da Rocketseat🚀
 
-
-# Front-end: ReactJS, Typescript
-# Backend: NodeJS, TypeORM, PostgresSQL
+### Front-end: ReactJS, Typescript
+### Backend: NodeJS, TypeORM, PostgresSQL
 
 ----------------------------------------------------
 
@@ -16,7 +15,7 @@ Aplicação para controle de financas - (Front-end: ReactJS, Typescript) (Backen
 
 ## Instalação | Execução
 
-Faça um clone desse repositório rodando:
+Clone esse repositório rodando:
 
     git clone https://github.com/MarthinKorb/Desafio-Fundamentos-Reactjs
 
@@ -25,30 +24,30 @@ Criar um banco de dados Posgtres com nome:
 
     gofinances
 
-Abrir terminal na pasta **backend** e instalar dependencias, rode o comando:
+Abra o terminal na pasta **backend** e instale as dependências rodando o comando:
 
     yarn
 
-Ainda na pasta **backend**, rodar as migrations para criação das tabelas, rode o comando:
+Ainda na pasta **backend**, rode as migrations para criação das tabelas no database rodando o comando:
 
     yarn typeorm migration:run
 
-Já podemos startar nosso servidor, rode o comando:
+Já podemos dar o start no nosso servidor rodando o comando:
 
     yarn dev:server
 
 ----------------------------------------------------
 
-Abrir o terminar na pasta **frontend**, instalar as dependencias, rode o comando:
+Abra o terminal na pasta **frontend**, instale as dependências rodando o comando:
 
     yarn
 
-Já podemos startar nosso front-end:
+Agora vamos iniciar nosso front-end:
 
     yarn start
 
-**Pronto, aplicação já rodando!**
+**Feito!**
 
 ----------------------------------------------------
 
-#
+

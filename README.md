@@ -46,7 +46,7 @@ Agora vamos iniciar nosso front-end:
 
     yarn start
 
-**Feito!**
+**Feito!** ✔
 
 ----------------------------------------------------
 
